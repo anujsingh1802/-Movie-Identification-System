@@ -1,0 +1,115 @@
+Title,Lead_Gender,Genre,Release_Year,Rating_Category,Language,Awards_Won,Budget_Category
+Inception,Male,Sci-Fi,2010,High,English,Yes,High
+Interstellar,Male,Sci-Fi,2014,High,English,Yes,High
+The Matrix,Male,Sci-Fi,1999,High,English,Yes,High
+Avatar,Male,Sci-Fi,2009,High,English,Yes,High
+Tenet,Male,Sci-Fi,2020,Medium,English,No,High
+Gravity,Female,Sci-Fi,2013,High,English,Yes,High
+Arrival,Female,Sci-Fi,2016,High,English,Yes,Medium
+Blade Runner 2049,Male,Sci-Fi,2017,High,English,Yes,High
+Minority Report,Male,Sci-Fi,2002,High,English,Yes,High
+The Martian,Male,Sci-Fi,2015,High,English,Yes,High
+The Dark Knight,Male,Action,2008,High,English,Yes,High
+Gladiator,Male,Action,2000,High,English,Yes,High
+John Wick,Male,Action,2014,High,English,No,Medium
+Mad Max Fury Road,Female,Action,2015,High,English,Yes,High
+Die Hard,Male,Action,1988,High,English,No,Medium
+Mission Impossible Fallout,Male,Action,2018,High,English,No,High
+Skyfall,Male,Action,2012,High,English,Yes,High
+The Avengers,Male,Action,2012,High,English,Yes,High
+Casino Royale,Male,Action,2006,High,English,Yes,High
+Braveheart,Male,Action,1995,High,English,Yes,Medium
+The Prestige,Male,Thriller,2006,High,English,No,Medium
+Shutter Island,Male,Thriller,2010,High,English,No,Medium
+Se7en,Male,Thriller,1995,High,English,No,Medium
+Gone Girl,Female,Thriller,2014,High,English,No,Medium
+Black Swan,Female,Thriller,2010,High,English,Yes,Medium
+Parasite,Male,Thriller,2019,High,English,Yes,Low
+Joker,Male,Drama,2019,High,English,Yes,Medium
+Fight Club,Male,Drama,1999,High,English,No,Medium
+The Social Network,Male,Drama,2010,High,English,Yes,Medium
+A Beautiful Mind,Male,Drama,2001,High,English,Yes,Medium
+Forrest Gump,Male,Drama,1994,High,English,Yes,Medium
+The Shawshank Redemption,Male,Drama,1994,High,English,Yes,Low
+Whiplash,Male,Drama,2014,High,English,Yes,Low
+Birdman,Male,Drama,2014,High,English,Yes,Low
+The Wolf of Wall Street,Male,Drama,2013,High,English,No,High
+The Revenant,Male,Drama,2015,High,English,Yes,High
+Life of Pi,Male,Drama,2012,High,English,Yes,Medium
+Slumdog Millionaire,Male,Drama,2008,High,English,Yes,Low
+Titanic,Female,Romance,1997,High,English,Yes,High
+La La Land,Female,Romance,2016,High,English,Yes,Medium
+The Notebook,Female,Romance,2004,High,English,No,Low
+Pretty Woman,Female,Romance,1990,High,English,No,Medium
+Her,Male,Romance,2013,High,English,Yes,Low
+Eternal Sunshine of the Spotless Mind,Male,Romance,2004,High,English,Yes,Low
+Before Sunrise,Male,Romance,1995,High,English,No,Low
+Before Sunset,Male,Romance,2004,High,English,No,Low
+Inglourious Basterds,Male,Action,2009,High,English,Yes,Medium
+Saving Private Ryan,Male,Action,1998,High,English,Yes,High
+Terminator 2 Judgment Day,Male,Action,1991,High,English,Yes,High
+Jurassic Park,Male,Sci-Fi,1993,High,English,Yes,High
+Back to the Future,Male,Sci-Fi,1985,High,English,Yes,Medium
+E.T. the Extra-Terrestrial,Male,Sci-Fi,1982,High,English,Yes,High
+The Truman Show,Male,Drama,1998,High,English,No,Medium
+Cast Away,Male,Drama,2000,High,English,No,Medium
+Million Dollar Baby,Female,Drama,2004,High,English,Yes,Low
+The Hurt Locker,Female,Drama,2008,High,English,Yes,Low
+Argo,Male,Thriller,2012,High,English,Yes,Medium
+1917,Male,Action,2019,High,English,Yes,High
+Dunkirk,Male,Action,2017,High,English,Yes,High
+Top Gun Maverick,Male,Action,2022,High,English,Yes,High
+Oppenheimer,Male,Drama,2023,High,English,Yes,High
+Dune,Male,Sci-Fi,2021,High,English,Yes,High
+Everything Everywhere All at Once,Female,Sci-Fi,2022,High,English,Yes,Medium
+Barbie,Female,Comedy,2023,High,English,Yes,High
+Knives Out,Male,Thriller,2019,High,English,No,Medium
+The Grand Budapest Hotel,Male,Comedy,2014,High,English,Yes,Medium
+Tenet,Male,Sci-Fi,2020,Medium,English,No,High
+Soul,Male,Animation,2020,High,English,Yes,Medium
+Nomadland,Female,Drama,2020,High,English,Yes,Low
+Sound of Metal,Male,Drama,2020,High,English,Yes,Low
+Palm Springs,Male,Comedy,2020,High,English,No,Low
+Dune,Male,Sci-Fi,2021,High,English,Yes,High
+No Time to Die,Male,Action,2021,Medium,English,No,High
+Spider-Man No Way Home,Male,Action,2021,High,English,No,High
+The Power of the Dog,Male,Drama,2021,High,English,Yes,Low
+CODA,Female,Drama,2021,High,English,Yes,Low
+Everything Everywhere All at Once,Female,Sci-Fi,2022,High,English,Yes,Medium
+Top Gun Maverick,Male,Action,2022,High,English,Yes,High
+The Batman,Male,Action,2022,High,English,No,High
+Avatar The Way of Water,Male,Sci-Fi,2022,High,English,Yes,High
+Elvis,Male,Drama,2022,High,English,Yes,Medium
+Oppenheimer,Male,Drama,2023,High,English,Yes,High
+Barbie,Female,Comedy,2023,High,English,Yes,High
+John Wick Chapter 4,Male,Action,2023,High,English,No,High
+Killers of the Flower Moon,Male,Drama,2023,High,English,Yes,High
+Poor Things,Female,Drama,2023,High,English,Yes,Medium
+Dune Part Two,Male,Sci-Fi,2024,High,English,Yes,High
+Civil War,Male,Action,2024,Medium,English,No,Medium
+Challengers,Female,Drama,2024,Medium,English,No,Medium
+Kingdom of the Planet of the Apes,Male,Sci-Fi,2024,Medium,English,No,High
+Furiosa A Mad Max Saga,Female,Action,2024,High,English,No,High
+Tanhaji,Male,Action,2020,High,Hindi,Yes,High
+Shershaah,Male,Action,2021,High,Hindi,Yes,Medium
+Sardar Udham,Male,Drama,2021,High,Hindi,Yes,Low
+83,Male,Drama,2021,High,Hindi,No,High
+Gangubai Kathiawadi,Female,Drama,2022,High,Hindi,Yes,High
+The Kashmir Files,Male,Drama,2022,High,Hindi,No,Low
+Brahmastra Part One Shiva,Male,Sci-Fi,2022,Medium,Hindi,No,High
+Drishyam 2,Male,Thriller,2022,High,Hindi,No,Medium
+RRR,Male,Action,2022,High,Hindi,Yes,High
+Pathaan,Male,Action,2023,Medium,Hindi,No,High
+Jawan,Male,Action,2023,High,Hindi,No,High
+12th Fail,Male,Drama,2023,High,Hindi,Yes,Low
+Rocky Aur Rani Kii Prem Kahaani,Male,Romance,2023,Medium,Hindi,No,Medium
+Animal,Male,Drama,2023,Medium,Hindi,No,High
+Sam Bahadur,Male,Drama,2023,High,Hindi,Yes,Medium
+Dunki,Male,Comedy,2023,Medium,Hindi,No,High
+Article 370,Female,Thriller,2024,Medium,Hindi,No,Medium
+Laapataa Ladies,Female,Drama,2024,High,Hindi,Yes,Low
+Fighter,Male,Action,2024,Medium,Hindi,No,High
+Crew,Female,Comedy,2024,Medium,Hindi,No,Medium
+Amar Singh Chamkila,Male,Drama,2024,High,Hindi,Yes,Low
+Maidaan,Male,Drama,2024,High,Hindi,Yes,High
+Shaitaan,Male,Thriller,2024,High,Hindi,No,Medium
