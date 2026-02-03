@@ -128,3 +128,10 @@ This guarantees that the system always terminates with **exactly one movie**.
 ### Command
 ```bash
 python main.py
+
+
+### Program Execution
+
+![Output](images/demo1.png)
+![Output](images/demo2.png)
+
